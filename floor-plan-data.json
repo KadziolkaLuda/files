@@ -1,0 +1,149 @@
+[
+    {
+        "id": 0,
+        "group": "",
+        "name": "",
+        "price": 0,
+        "class": "item-unavailable"
+    },
+    {
+        "id": 1,
+        "group": "Fund a work station in this area",
+        "name": "Collaboration workstation 1",
+        "price": 2400,
+        "class": ""
+    },
+    {
+        "id": 2,
+        "group": "Fund a work station in this area",
+        "name": "Collaboration workstation 2",
+        "price": 2400,
+        "class": ""
+    },
+    {
+        "id": 3,
+        "group": "Fund a work station in this area",
+        "name": "Traditional work bench 3",
+        "price": 2400,
+        "class": ""
+    },
+    {
+        "id": 4,
+        "group": "Fund a work station in this area",
+        "name": "Traditional work bench 4",
+        "price": 2400,
+        "class": ""
+    },
+    {
+        "id": 5,
+        "group": "Fund a work station in this area",
+        "name": "Traditional work bench 1",
+        "price": 2400,
+        "class": ""
+    },
+    {
+        "id": 6,
+        "group": "Fund a work station in this area",
+        "name": "Traditional work bench 2",
+        "price": 2400,
+        "class": ""
+    },
+    {
+        "id": 7,
+        "group": "Fund a wall this room",
+        "name": "Creative Wall 2",
+        "price": 5000,
+        "class": ""
+    },
+    {
+        "id": 8,
+        "group": "Fund a wall this room",
+        "name": "Design Wall 4",
+        "price": 5000,
+        "class": ""
+    },
+    {
+        "id": 9,
+        "group": "Fund a wall this room",
+        "name": "Design Wall 3",
+        "price": 5000,
+        "class": ""
+    },
+    {
+        "id": 10,
+        "group": "Fund a wall this room",
+        "name": "Design Wall 2",
+        "price": 5000,
+        "class": ""
+    },
+    {
+        "id": 11,
+        "group": "Fund a wall this room",
+        "name": "Design Wall 1",
+        "price": 5000,
+        "class": ""
+    },
+    {
+        "id": 12,
+        "group": "Fund a wall this room",
+        "name": "Creative Wall 3",
+        "price": 5000,
+        "class": ""
+    },
+    {
+        "id": 13,
+        "group": "Fund a wall this room",
+        "name": "Creative Wall 4",
+        "price": 5000,
+        "class": ""
+    },
+    {
+        "id": 14,
+        "group": "Fund a wall this room",
+        "name": "Creative Wall 1",
+        "price": 5000,
+        "class": ""
+    },
+    {
+        "id": 15,
+        "group": "Fund this area",
+        "name": "Classroom 2 store",
+        "price": 10000,
+        "class": ""
+    },
+    {
+        "id": 16,
+        "group": "Fund this area",
+        "name": "Classroom 1 store",
+        "price": 10000,
+        "class": ""
+    },
+    {
+        "id": 17,
+        "group": "Fund this area",
+        "name": "Classroom 1",
+        "price": 50000,
+        "class": ""
+    },
+    {
+        "id": 18,
+        "group": "Fund this area",
+        "name": "Lobby",
+        "price": 30000,
+        "class": ""
+    },
+    {
+        "id": 19,
+        "group": "Fund this area",
+        "name": "Office",
+        "price": 20000,
+        "class": ""
+    },
+    {
+        "id": 20,
+        "group": "Fund this area",
+        "name": "Classroom 2",
+        "price": 50000,
+        "class": ""
+    }
+]
